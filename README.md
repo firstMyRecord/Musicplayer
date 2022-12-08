@@ -3,6 +3,10 @@
 * 저자 : 홍정아       
 * 출판사 : 골드 래빗
 ## 간단한 뮤직 플레이어 만들어보기
+* MediaPlayer API 
+* 서비스와 생명주기 
+* 바인드
+* ForegroundService, BackgroundService
 ### 기능 
 * 음악 재생
 * 일시정지
